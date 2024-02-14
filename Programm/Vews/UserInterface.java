@@ -55,7 +55,7 @@ public class UserInterface {
 
     public List<String> mainMenu() {
         List<String> menu = new ArrayList<>();
-        menu.add("Внести запись о животном(Только на русском!!)");
+        menu.add("Внести запись о животном(Только на английском!!)");
         menu.add("Прочитать записи о животных");
         menu.add("Прочитать записи о всех животных");
         menu.add("Добавить изученную команду животному");
